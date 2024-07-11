@@ -1,0 +1,157 @@
+---
+id: my-doc-id
+title: Levantar Azure
+description: En esta página se encuentra la documentación para levantar azure
+slug: /my-custom-url
+---
+
+## Pasos para levantar Maxpoint Azure
+
+Markdown text with [links](./hello)  
+Let's see how to [Create a page](./hello).
+
+![Docusaurus logo](/img/docusaurus-social-card.jpg)
+
+<!-- crear código -->
+
+```jsx title="src/components/HelloDocusaurus.js"
+function HelloDocusaurus() {
+  return <h1>Hello, Docusaurus!</h1>;
+}
+```
+
+<!-- Alertas  -->
+:::tip[Alerta Success]
+Esta es una alerta
+:::
+
+:::danger[Alerta Error]
+This action is dangerous
+:::
+
+
+<!-- COMPONENTES REACR -->
+
+<!-- export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '20px',
+      color: '#fff',
+      padding: '10px',
+      cursor: 'pointer',
+    }}
+    onClick={() => {
+      alert(`You clicked the color ${color} with label ${children}`)
+    }}>
+    {children}
+  </span>
+);
+
+This is <Highlight color="#25c2a0">Docusaurus green</Highlight> !
+
+This is <Highlight color="#1877F2">Facebook blue</Highlight> ! -->
+
+
+
+
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+    {children}
+  </span>
+);
+
+<Highlight color="#25c2a0">Docusaurus green</Highlight> and <Highlight color="#1877F2">Facebook blue</Highlight> are my favorite colors.
+
+I can write **Markdown** alongside my _JSX_!
+
+<!-- llamar componentes creados -->
+
+import Resaltado from '@site/src/components/componentes/Resaltado';
+
+<Resaltado color="#25c2a0">Docusaurus green s...</Resaltado>
+
+
+
+- a
+- list!
+
+And some <Resaltado color="#25c2a0">Docusaurus green s...</Resaltado>...
+
+
+import CodeBlock from '@theme/CodeBlock';
+import MyComponent from '@site/src/components/componentes/MyComponent';
+
+<CodeBlock language="jsx">{MyComponent}</CodeBlock>
+
+
+
+
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="apple" label="Apple" default>
+    This is an apple 🍎A continuación, se indica cómo deben introducirse notas al pie, títulos y fuentes en Tablas y Figura, y Secciones. A continuación, se indica cómo deben introducirse notas al pie, títulos y fuentes en Tablas y Figura, y Secciones. A continuación, se indica cómo deben introducirse notas al pie, títulos y fuentes en Tablas y Figura, y Secciones. A continuación, se indica cómo deben introducirse notas al pie, títulos y fuentes en Tablas y Figura, y Secciones. A continuación, se indica cómo deben introducirse notas al pie, títulos y fuentes en Tablas y Figura, y Secciones. A continuación, se indica cómo deben introducirse notas al pie, títulos y fuentes en Tablas y Figura, y Secciones. 
+  </TabItem>
+  <TabItem value="orange" label="Orange">
+    This is an orange 🍊
+  </TabItem>
+  <TabItem value="banana" label="Banana">
+    This is a banana 🍌
+  </TabItem>
+</Tabs>
+
+
+
+OTRA MANERA 
+
+<Tabs
+  defaultValue="apple"
+  values={[
+    {label: 'Apple', value: 'apple'},
+    {label: 'Orange', value: 'orange'},
+    {label: 'Banana', value: 'banana'},
+  ]}>
+  <TabItem value="apple">This is an apple 🍎A continuación, se indica cómo deben introducirse notas al pie, títulos y fuentes en Tablas y Figura, y Secciones. A continuación, se indica cómo deben introducirse notas al pie, títulos y fuentes en Tablas y Figura, y Secciones. A continuación, se indica cómo deben introducirse notas al pie, títulos y fuentes en Tablas y Figura, y Secciones. A continuación, se indica cómo deben introducirse notas al pie, títulos y fuentes en Tablas y Figura, y Secciones. A continuación, se indica cómo deben introducirse notas al pie, títulos y fuentes en Tablas y Figura, y Secciones. A continuación, se indica cómo deben introducirse notas al pie, títulos y fuentes en Tablas y Figura, y Secciones.</TabItem>
+  <TabItem value="orange">This is an orange 🍊</TabItem>
+  <TabItem value="banana">This is a banana 🍌</TabItem>
+</Tabs>
+
+
+CODIGO 
+
+```js
+function HighlightSomeText(highlight) {
+  if (highlight) {
+    // highlight-next-line
+    return 'This text is highlighted!';
+  }
+
+  return 'Nothing highlighted';
+}
+
+function HighlightMoreText(highlight) {
+  // highlight-start
+  if (highlight) {
+    return 'This range is highlighted!';
+  }
+  // highlight-end
+
+  return 'Nothing highlighted';
+}
+```
+
+
+## Level 2 title
+
+### Level 3 title
+
+#### Level 4 title
