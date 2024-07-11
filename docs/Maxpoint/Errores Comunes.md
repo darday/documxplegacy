@@ -2,7 +2,7 @@
 id: mxp1
 title: Errores comunes
 description: En esta página se encuentra la documentación para solventar errores que se presentan comunmente en maxpoint
-slug: /my-custom-url
+slug: /errores-comunes-mxp
 ---
 
 ## 1. Error WS SERVIDOR al iniciar un periodo
@@ -22,4 +22,11 @@ Este error se debe a que en la tienda se tiene activa la Política **Transferenc
 
 ![Restaurante](./img/politicaTransferencia.png)
 
-## 2. No se muestran los pedidos domicilio en pantalla
+## 2. No se muestran los pedidos domicilio en pantalla.
+
+Cuando los pedidos no se muestran en pantalla pueden deverse a algunas situaciones a continuación se listan las posibles razones.
+### 1. La política entrega inmediata tiene el valor INMEDIATA
+
+La razón de que el pedido no se muestre en la pantalla **Pedidos Pendientes** puede ser debido a que la política del restaurante llamada **ENTREGA INMEDIATA** tiene el valor **INMEDIATA**. 
+Cuando tiene el valor inmediata el pedido domicilio no se muestra en la pantalla de Pedidos Pendientes. Para resolver esto se debe de cambiar al valor **DESPACHO** o **PARCIAL**
+![Restaurante](./img/inmediata.png)
