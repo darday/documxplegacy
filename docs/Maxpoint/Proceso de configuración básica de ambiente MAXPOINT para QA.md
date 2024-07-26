@@ -1,32 +1,34 @@
 ---
-id: mxp2
-title: Proceso de configuración básica de ambiente MAXPOINT para QA
+id: FortiClient VPN
+title: Configuración básica del ambiente MAXPOINT para Qa
 description: En esta página se encuentra la documentación para realizar la configuración básica de ambiente en MAXPOINT
 slug: /configuracion-basica-maxpoint-mxp
 ---
 
-## 1. Iniciar sesión el 
 
-![Restaurante](./img/wsTransferencia.png)
-Este error se debe a que en la tienda se tiene activa la Política **Transferencia de venta**. Para solucionar el error se debe seguir los siguientes pasos:
-1. Ingresar a Maxpoint Backoffice e iniciar sesión como credenciales de un administrador 
-2. Seleccionar una cadena.
-3. En el menú izquierdo seleccionar la opción RESTAURANTE
-4. Seleccionar la subopción RESTAURANTE como se muestra en la siguinte imagen.
 
-![Restaurante](./img/restaurante.png)
+### **Te guiaremos a través del proceso de configuración inicial de tu ambiente MAXPOINT utilizando FortiClient VPN. Aprenderás a conectar tu dispositivo  y a comenzar a trabajar en tus tareas.**
+## 1. Iniciar sesión el FortiClient VPN
+**Pasos para configurar:**
+1. Iniciar FortiClient.
+- Localizar la aplicación.
+- Dar clic para abrir la aplicación y esperar a que se ejecute.
+2. Ingresar Credenciales.
+- Ingresar el **Username**: (Proporcionado por el administrador) 
+- Ingresar la **Password**: (Proporcionada por el administrador )
+3. Dar clic en el Botón **"Connect"**.
 
-5. Dar doble clic en el registro del restaurante y seguidamente se mostrará una pantalla modal.
-6. En la pantalla modal dirigirse a la pestaña políticas de configuración y buscar la política **TRANSFERENCIA DE VENTA** 
-7. Esta política debe de estar deshabilitada tal como se muestra en la siguiente imagen: 
+![Restaurante](./img/forticlientcredenciales.png)
 
-![Restaurante](./img/politicaTransferencia.png)
+5. Verificar el Correo Electrónico.
+- Revisar la bandeja de entrada del correo electrónico.
+- El correo electrónico contendrá un código numérico, este sera el token.
+6. Ingresar el Token en FortiClient.
+- Se habilitará un nuevo campo llamado **"Token"**.
+- Copia y pega el código del token obtenido en el correo electrónico en este campo.
+7. Dar clic en el botón en **"OK"**.
 
-## 2. No se muestran los pedidos domicilio en pantalla.
 
-Cuando los pedidos no se muestran en pantalla pueden deverse a algunas situaciones a continuación se listan las posibles razones.
-### 1. La política entrega inmediata tiene el valor INMEDIATA
+![Restaurante](./img/FC-Token.png)
 
-La razón de que el pedido no se muestre en la pantalla **Pedidos Pendientes** puede ser debido a que la política del restaurante llamada **ENTREGA INMEDIATA** tiene el valor **INMEDIATA**. 
-Cuando tiene el valor inmediata el pedido domicilio no se muestra en la pantalla de Pedidos Pendientes. Para resolver esto se debe de cambiar al valor **DESPACHO** o **PARCIAL**
-![Restaurante](./img/inmediata.png)
+8. Se establecerá la conexión a la VPN utilizando el token como medida de seguridad adicional.
