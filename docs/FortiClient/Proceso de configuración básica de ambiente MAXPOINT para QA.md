@@ -6,8 +6,7 @@ slug: /configuracion-basica-maxpoint-mxp
 ---
 
 
-
-### **Te guiaremos a través del proceso de configuración inicial de tu ambiente MAXPOINT utilizando FortiClient VPN. Aprenderás a conectar tu dispositivo  y a comenzar a trabajar en tus tareas.**
+ **Te guiaremos a través del proceso de configuración inicial de tu ambiente MAXPOINT utilizando FortiClient VPN. Aprenderás a conectar tu dispositivo  y a comenzar a trabajar en tus tareas.**
 ## 1. Iniciar sesión el FortiClient VPN
 **Pasos para configurar:**
 1. Iniciar FortiClient.
@@ -22,13 +21,18 @@ slug: /configuracion-basica-maxpoint-mxp
 
 5. Verificar el Correo Electrónico.
 - Revisar la bandeja de entrada del correo electrónico.
+![Restaurante](./img/VERIFICARCORREOTOKEN.png)
 - El correo electrónico contendrá un código numérico, este sera el token.
+![Restaurante](./img/TOKENCORREO.png)
+
 6. Ingresar el Token en FortiClient.
 - Se habilitará un nuevo campo llamado **"Token"**.
 - Copia y pega el código del token obtenido en el correo electrónico en este campo.
 7. Dar clic en el botón en **"OK"**.
+8. Esperar a que se complete la conexión.
 
+![Restaurante](./img/FCTOKEN.png)
 
-![Restaurante](./img/FC-Token.png)
+9. Cuando haya establecido la conexión aparecerá un aparatado similar a la siguiente imagen.
 
-8. Se establecerá la conexión a la VPN utilizando el token como medida de seguridad adicional.
+![Restaurante](./img/Conexi%C3%B3nExitosaFC.png )

@@ -7,7 +7,7 @@ slug: /errores-comunes-mxp
 
 ## 1. Error WS SERVIDOR al iniciar un periodo
 
-![Restaurante](./img/wsTransferencia.png)
+<!-- ![Restaurante](./img/wsTransferencia.png) -->
 Este error se debe a que en la tienda se tiene activa la Política **Transferencia de venta**. Para solucionar el error se debe seguir los siguientes pasos:
 1. Ingresar a Maxpoint Backoffice e iniciar sesión como credenciales de un administrador 
 2. Seleccionar una cadena.
