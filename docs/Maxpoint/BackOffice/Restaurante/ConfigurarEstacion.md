@@ -38,7 +38,7 @@ slug: /Configurarestacion
 7. Seleccionar la subopción **MESAS** como se muestra en la siguiente imagen.
 <!-- ![Descargar](./img/DescargarFC.png) -->
 
-8. Aparecerá un modal el cual consta de Descripción en este ingresamos la descripción por ejemplo **"Mesa1"** y Mesas en el cual se selecciona el tipo de mesa y para finalizar hacer clic en el botón Aceptar.-->
+8. Aparecerá un modal el cual consta de Descripción en este ingresamos la descripción por ejemplo **"Mesa1"** y Mesas en el cual se selecciona el tipo de mesa y para finalizar hacer clic en el botón Aceptar.
 
 <!-- ![Guardar app](../../img/Guardarapp.png) -->
 
@@ -54,7 +54,7 @@ slug: /Configurarestacion
 
  - Después de seleccionar el Restaurante aparecerá una lista con las estaciones existentes.
  - En caso de no existir estaciones procedemos a crear una, en la parte superior haz clic en **"Nuevo"**.
- <!-- ![Instalar y fin de la instalación](./img/InstallFin.png)  --> -->
+ <!-- ![Instalar y fin de la instalación](./img/InstallFin.png)  --> 
 
  <!-- 11. Aparecerá un modal con toda la información.
 
