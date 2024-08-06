@@ -12,7 +12,7 @@ slug: /Crearestacion
 
 ![Seleccionar Cadena](../../img/Menu-Izquierdo-Restaurante.png)
 
-2. Seleccionar la subopción **RESTAURANTE** y se despegara la información del restaurante.
+2. Seleccionar la subopción **RESTAURANTE** y se despegara la información del restaurante..
 
 
  ![Submenu Restaurant](../../img/Subopcion-Restaurante.png)  

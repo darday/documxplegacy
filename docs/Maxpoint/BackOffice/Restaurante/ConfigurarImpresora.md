@@ -15,7 +15,7 @@ slug: /ConfigurarImpresora
  ![Subopción Impresora](../../img/Subopcion-Impresora.png)  
 
 3. Luego dar clic en la opción de **"Seleccionar Restaurante"**  selecciona el restaurante ente caso es **"H041 PATRIA"**.
- - Después de seleccionar el Restaurante aparecerá una lista con las impresoras existentes.
+ - Después de seleccionar el Restaurante aparecerá una lista con las impresoras existentes..
 - En caso de no existir impresoras procedemos a crear una [Impresora](http://localhost:3000/docs/CrearImpresora).
 
  ![Impresoras existentes](../../img/Impresoras-existentes.png)

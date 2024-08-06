@@ -10,7 +10,7 @@ slug: /CrearImpresora
 
 ![Seleccionar Cadena](../../img/Menu-Izquierdo-Restaurante.png)
 
-2. Seleccionar la subopción **IMPRESORA** y se despegara la información del restaurante.
+2. Seleccionar la subopción **IMPRESORA** y se despegara la información del restaurante..
 
  ![Subopción Impresora](../../img/Subopcion-Impresora.png)  
 

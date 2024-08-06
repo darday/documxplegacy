@@ -13,7 +13,7 @@ slug: /Crearmesa
 
  ![Mesas](../../img/SubopcionMesas.png)
 
-3. Seleccionar el Restaurante, luego seleccionamos el piso para terminar seleccionamos el area.
+3. Seleccionar el Restaurante, luego seleccionamos el piso para terminar seleccionamos el area..
 
 ![Seleccionar-Restautante-Mesa-Piso](../../img/Seleccion-R-P-M.gif)
 
