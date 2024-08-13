@@ -1,11 +1,11 @@
 ---
 id: mxp3
-title: Primera configuracion 
+title: Primera configuración 
 description: En esta página se encuentra la documentación para la primera configuracion de Cypress
 slug: /Cypress-confi
 ---
 
-## 1. Como confirurar por primera vez cypress 
+## 1. Como configurar por primera vez cypress 
 
 
 #### 1.	En el directorio en dónde se inicializó el proyecto, abrir CMD ó PowerShell y correr el comando de inicialización de Cypress:
