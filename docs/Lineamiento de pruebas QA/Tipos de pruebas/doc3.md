@@ -31,7 +31,8 @@ slug: /Capacitación-Tipos-de-Pruebas-doc3
 
 **-Pruebas de login:** con credenciales válidas en inválidad
 
-## Pruebas de Servicios o API´s es fundamental por diversas razones que impactan directamente en la calidad y la fiabilidad de los sistemas y aplicaciones. 
+Pruebas de Servicios o API´s es fundamental por diversas razones que impactan directamente en la calidad y la fiabilidad de los sistemas y aplicaciones. 
+
 ![Descripción de la Imagen](./img/SERVICIOSAPI.png)
 
 ## 5. Pruebas de Sistema
@@ -52,7 +53,7 @@ slug: /Capacitación-Tipos-de-Pruebas-doc3
 ## 7. Pruebas End to End
 **Las pruebas de punta a punta** simulan el uso completo del software para verificar que todos los flujos, desde tareas simples hasta procesos complejos, funcionen correctamente.
 
-**Estas pruebas verifican que los flujos que sigue un usuario trabajen como se espera, y pueden ser tan simples como:**
+Estas pruebas verifican que los flujos que sigue un usuario trabajen como se espera, y pueden ser tan simples como:
 
 -Cargar una página web
 
@@ -61,25 +62,31 @@ slug: /Capacitación-Tipos-de-Pruebas-doc3
 -Verificando notificaciones vía email
 
 -Pagos en línea
+
 ![Descripción de la Imagen](./img/Imagen3.png)
 
 
 ## 8. Pruebas de Humo
 **Las pruebas de humo** verifican la funcionalidad básica de una aplicación de manera rápida después de una nueva versión para decidir si es apta para su despliegue en un nuevo entorno.
+
 ![Descripción de la Imagen](./img/Imagen4.png)
 
 ## 9. Pruebas de Regresión
 **Las pruebas de regresión** aseguran que cambios recientes no afecten funcionalidades anteriores. No incluyen nuevas características; una falla indica un impacto negativo en lo que antes funcionaba.
+
 ![Descripción de la Imagen](./img/Imagen5.png)
 
 ## 10. Pruebas de Usabilidad
 **Las pruebas de usabilidad** evalúan si los nuevos usuarios pueden usar la aplicación intuitivamente. Las dificultades o confusiones deben ser documentadas.
+
 ![Descripción de la Imagen](./img/Imagen6.png)
 
 ## 11. Pruebas de Rendimiento
 **Las pruebas de rendimiento** evalúan cómo responde el sistema bajo alta carga y miden su fiabilidad, estabilidad y disponibilidad.
+
 ![Descripción de la Imagen](./img/IMAGEN7.PNG)
 
 ## 12. Pruebas de Aceptación
 **Estas pruebas finales** implican que usuarios reales verifiquen si el software cumple con las tareas requeridas en un entorno real.
+
 ![Descripción de la Imagen](./img/Imagen8.png)

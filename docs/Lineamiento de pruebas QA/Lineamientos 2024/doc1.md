@@ -9,21 +9,21 @@ slug: /Aseguramiento-de-la-calidad-QA-doc1
 Generar confianza y seguridad en el Grupo KFC, asegurando que sus sistemas de información cumplan con las condiciones adecuadas de calidad esperada. Además, permitir una producción más ágil y eficiente del software y los datos mediante la mejora y automatización de los controles en los procesos, estableciendo así una cultura de mejora y colaboración continua.
 
 ## 2. Visión
-## El aseguramiento de calidad se centra en el software orientado a procesos y datos. Este proceso está presente en toda la cadena de construcción de los sistemas de información.  
 
+El aseguramiento de calidad se centra en el software orientado a procesos y datos. Este proceso está presente en toda la cadena de construcción de los sistemas de información.  
 Algunas características del aseguramiento de calidad son que abarca toda la cadena de producción, su objetivo principal es detectar errores durante el proceso de calidad de software y datos, los cuales serán compartidos con el área de Analítica de Datos. La medición es continua y todos los departamentos se encuentran involucrados.
 
 ### 3. Objectivos
 
-**✓ Generar confianza y seguridad en los productos.**
+✓ Generar confianza y seguridad en los productos.
 
-**✓ Garantizar un control eficiente sobre la calidad del software y los datos.**
+✓ Garantizar un control eficiente sobre la calidad del software y los datos.
 
-**✓ Contribuir con la reducción de costos.**
+✓ Contribuir con la reducción de costos.
 
-**✓ Optimizar los procesos.**
+✓ Optimizar los procesos.
 
-**✓ Fortalecer y mejorar la gestión.**
+✓ Fortalecer y mejorar la gestión.
 
 ### 4. Funciones de Especialistas
 | Esenciales                                                                                                         | Competencias de cargo                                                   |
@@ -81,7 +81,7 @@ Algunas características del aseguramiento de calidad son que abarca toda la cad
 ![Descripción de la Imagen](./img/bien.png.png)
 
 ## 11. Resultados
- **“Lo que no se define no se puede medir. Lo que no se mide no se puede mejorar. Lo que no se mejora, se degrada siempre”.**
+“Lo que no se define no se puede medir. Lo que no se mide no se puede mejorar. Lo que no se mejora, se degrada siempre”.
 
 **¿Cómo definir KPI importantes?**
 
