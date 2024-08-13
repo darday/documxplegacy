@@ -1,33 +1,42 @@
 ---
 id: Crear Mesa
-title: Crear una mesa
+title: Crear Mesa
 description: En esta página se encuentra la Configuración para una mesa
 slug: /Crearmesa
 ---
+**¡Sigue estas instrucciones para crear una nueva Mesa!**
+## Primer paso: Revisar la información del restaurante.
 
 1. En el menú izquierdo seleccionar la opción **RESTAURANTE**
 
-![Seleccionar Cadena](../../img/Menu-Izquierdo-Restaurante.png)
+![Seleccionar Resturante](../../img/Menu-Izquierdo-Restaurante.png)
 
-2. Seleccionar la subopción **MESAS** y se despegara la información.
+2. Seleccionar la subopción **RESTAURANTE** y se despegara la información del restaurante.
+
+ ![Submenu Restaurante](../../img/Subopcion-Restaurante.png)  
+
+## Segundo paso: Verificar si hay mesas creadas
+
+1. Seleccionar la subopción **MESAS** y se despegara la información del restaurante.
 
  ![Mesas](../../img/SubopcionMesas.png)
 
-3. Seleccionar el Restaurante, luego seleccionamos el piso para terminar seleccionamos el area..
+2. Selecciona el restaurante, piso y área para verificar si hay mesas creadas.
 
 ![Seleccionar-Restautante-Mesa-Piso](../../img/Seleccion-R-P-M.gif)
+## Tercer paso: Crear una mesa
 
-4. Para crear una nueva mesa nos dirigimos a la parte superior buscamos el apartado **"NUEVO"**.
+1.  **Para Crear** una nueva mesa dirígete a la parte superior haz clic en **"NUEVO"**.
 
 ![Seleccionar-Restaurante-Mesa-Piso](../../img/Crear-Mesa.png)
 
-5. Se mostrará un cuadro con dos campos:
-- Descripción: Ingresa aquí un nombre o descripción distintiva para identificar el elemento. Por ejemplo, **"Mesa 9"**.
-- Tipo de mesa: Selecciona el tipo de mesa correspondiente de una lista desplegable.
-- Al hacer clic en el botón **"Aceptar"**, se confirmará la información ingresada."
+2. Completa la información:
+- Descripción: Escribe un nombre para la mesa (ej: "Mesa 9").
+- Tipo de mesa: Selecciona el tipo de mesa que deseas se desplegara una lista y selecciona la que necesitas.
+- Dar clic en el botón **"Aceptar"**, para guardar la información."
 
 ![Opciones de la mesa](../../img/Opciones-mesa.png) 
 
-6. Finalmente en la pantalla aparecerá la mesa que acabamos de crear.
+3. En la pantalla aparecerá la mesa se acabó de crear.
 
 ![Mesa-Creada](../../img/MesaCreada.png)
