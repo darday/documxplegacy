@@ -6,42 +6,44 @@ slug: /Calidad-de-Software-doc2
 ---
 ## 1. ¿Por qué Probar?
 ![Descripción de la Imagen](./img/singoin.PNG)  
-**✔️Para evitar plazos y presupuestos incumplidos a causa de la insatisfacción de los usuarios, mala calidad que ocasiona baja productividad.**
+✔️Para evitar plazos y presupuestos incumplidos a causa de la insatisfacción de los usuarios, mala calidad que ocasiona baja productividad.
 
-**✔️Porque es una métrica importante para atraer clientes.**
+✔️Porque es una métrica importante para atraer clientes.
 
-**✔️Porque mejora los entregables y genera confianza al cliente de que los requisitos se cumplieron no solo a tiempo sino con calidad y sin errores.**
+✔️Porque mejora los entregables y genera confianza al cliente de que los requisitos se cumplieron no solo a tiempo sino con calidad y sin errores.
 
 ## 2. ¿Quiénes deben probar o que se debe probar?
 ![Descripción de la Imagen](./img/signo..PNG)  
-**✔️Si la pregunta es quienes se diría que el programador o el que ejecuta el desarrollo debe evitar probar sus propios programas ya que no puede ser su propio juez.**
+✔️Si la pregunta es quienes se diría que el programador o el que ejecuta el desarrollo debe evitar probar sus propios programas ya que no puede ser su propio juez.
 
 
 
-**✔️¡En el caso de que la pregunta sea que ! Decimos que se debe inspeccionar todo lo que compone un sistema desde el más bajo nivel al más alto que es la cara del cliente.**
+✔️¡En el caso de que la pregunta sea que ! Decimos que se debe inspeccionar todo lo que compone un sistema desde el más bajo nivel al más alto que es la cara del cliente.
 
 
-**✔️Al generar mis casos de prueba se debe incluir tanto datos de entrada validos como no válidos , esperados como no esperados.**
+✔️Al generar mis casos de prueba se debe incluir tanto datos de entrada validos como no válidos , esperados como no esperados.
 
 ## 3. ¿Se debe probar todo?
 ![Descripción de la Imagen](./img/pp.PNG)  
-**✔️Es prácticamente imposible , ya que se pueden tener infinitas posibilidades.**
+✔️Es prácticamente imposible , ya que se pueden tener infinitas posibilidades.
 
-**✔️Se debe elegir ciclos de prueba eficientes y suficientes.**
+✔️Se debe elegir ciclos de prueba eficientes y suficientes.
 
-**✔️Se sobrepasan los costos, por lo que en muchas ocasiones se prefiere no tener alguien de calidad en un equipo de trabajo ya que se puede volver un cuello de botella.**
+✔️Se sobrepasan los costos, por lo que en muchas ocasiones se prefiere no tener alguien de calidad en un equipo de trabajo ya que se puede volver un cuello de botella.
 
-**✔️Elegir lo más relevante de acuerdo con criterios de aceptación o checklist de validación**
+✔️Elegir lo más relevante de acuerdo con criterios de aceptación o checklist de validación
 
 ## 4. Estandares de pruebas
 **ISO 9126**
 
 Este modelo evalúa la calidad basada en medición y evaluación tomando la siguiente referencia
+
 ![Descripción de la Imagen](./img/F.PNG.jpg)  
 
 **IEEE 829**
 
 Se basa en la documentación de pruebas generalmente en cómo y que entregables se tienen de soporte o evidencia de la ejecución de pruebas
+
 ![Descripción de la Imagen](./img/PPPP.png) 
 
  ## 5. Definiciones dentro del marco de calidad
@@ -80,9 +82,10 @@ Se basa en la documentación de pruebas generalmente en cómo y que entregables 
 
 ## 11. Definiciones dentro del marco de calidad
 
-**Por ejemplo:**
+Por ejemplo:
 
-**Un error en la obtención de requisitosPuede conducir a un defecto al documentar un requisito que luego da como resultado que falle la aplicación o sistema.** 
+Un error en la obtención de requisitosPuede conducir a un defecto al documentar un requisito que luego da como resultado que falle la aplicación o sistema.
+
 ![Descripción de la Imagen](./img/errror.jpg) 
 
 ## 12. Gestión de defectos
