@@ -21,6 +21,7 @@ slug: /Cypress-confi
 ![ejemplo](../img/23.jpg)
 
 3. En la siguiente pantalla, muestra los archivos de configuración básica que se van a guardar en el proyecto. Dar click en “Continue”:
+
 ![ejemplo](../img/24.jpg)
 
 4.Se despliega la interfaz para escoger el navegador que usaremos como motor de pruebas. Dar click en el navegador de preferencia (Firefox para pruebas de Maxpoint), seguidamente click en el botón “Start E2E testing in Firefox”:
