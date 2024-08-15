@@ -38,7 +38,7 @@ slug: /Configurarestacion
 
  ![SubOpción Mesa](../../img/SubopcionMesas.png) 
 
-- Para aprender a crear una mesa, da clic en el siguiente enlace: [http://localhost:3000/docs/Crearmesa](http://localhost:3000/docs/Crearmesa)
+- Para aprender a crear una mesa, da clic en el siguiente enlace: [http://192.168.101.42:880/documentacion/docs/Crearmesa](http://192.168.101.42:880/documentacion/docs/Crearmesa)
 
 
 
@@ -49,7 +49,7 @@ slug: /Configurarestacion
 ## Cuarto paso: Configura la Estación.
 
 1.  Dar clic en la subopción **ESTACIÓN**, luego seleccionar el restaurante y aparecerá una lista con las estaciones existentes.
-- Para aprender a crear una estación, da clic en el siguiente enlace: [http://localhost:3000/docs/Crearestacion](http://localhost:3000/docs/Crearestacion)
+- Para aprender a crear una estación, da clic en el siguiente enlace: [http://192.168.101.42:880/documentacion/docs/Crearestacion](http://192.168.101.42:880/documentacion/docs/Crearestacion)
 
 ![SubOpción Estación](../../img/Estaciones-existentes.png)
 

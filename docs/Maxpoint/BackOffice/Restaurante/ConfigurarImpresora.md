@@ -31,7 +31,7 @@ slug: /ConfigurarImpresora
 
 
 ## Tercer paso configurar impresora
-- **Si no hay impresoras:** Da clic en el enlace para crear una nueva: [http://localhost:3000/docs/CrearImpresora](http://localhost:3000/docs/CrearImpresora).
+- **Si no hay impresoras:** Da clic en el enlace para crear una nueva: [http://192.168.101.42:880/documentacion/docs/CrearImpresora](http://192.168.101.42:880/documentacion/docs/CrearImpresora).
 1. Si quieres modificar una impresora ya creada sigue estos pasos:
 - Haz doble clic sobre la impresora que deseas editar.
 - Se abrirá una ventana donde podrás cambiar la configuración.
