@@ -30,3 +30,13 @@ Cuando los pedidos no se muestran en pantalla pueden deverse a algunas situacion
 La razón de que el pedido no se muestre en la pantalla **Pedidos Pendientes** puede ser debido a que la política del restaurante llamada **ENTREGA INMEDIATA** tiene el valor **INMEDIATA**. 
 Cuando tiene el valor inmediata el pedido domicilio no se muestra en la pantalla de Pedidos Pendientes. Para resolver esto se debe de cambiar al valor **DESPACHO** o **PARCIAL**
 ![Restaurante](./img/inmediata.png)
+
+## 3. Política de validación de ruc no se encuentra activa
+Esto sucede porque a nivel de cadena no se tiene activa o creada la política Validación ruc. Para solucionarlo se debe acceder a backoffice-> cadena->Políticas de configuración y activar las políticas de validación de RUC.
+
+![Restaurante](./img/popliticaactiva.png)
+
+Quedando la política configurada de la siguiente manera: 
+![Restaurante](./img/politicasvalidacion.png)
+
+
